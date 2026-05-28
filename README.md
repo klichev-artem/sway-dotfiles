@@ -6,6 +6,13 @@
  ██████╔╝╚██████╔╝   ██║   ██║     ██║███████╗███████╗███████║
  ╚═════╝  ╚═════╝    ╚═╝   ╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝
 ```
+## ScreenShot
+<img width="1920" height="1080" alt="20260528_17h51m40s_grim" src="https://github.com/user-attachments/assets/07605d51-34ba-4f99-b4a2-c71048fbe261" />
+
+<img width="1920" height="1080" alt="20260528_17h53m37s_grim" src="https://github.com/user-attachments/assets/716ec979-5780-4ded-8429-f9e6ce21b41a" />
+<img width="1920" height="1080" alt="20260528_17h53m43s_grim" src="https://github.com/user-attachments/assets/b0908b02-2e0c-46ea-94b2-2aee89fb5b21" />
+
+<img width="1920" height="1080" alt="20260528_17h52m07s_grim" src="https://github.com/user-attachments/assets/82b2688b-1bcf-4041-82d2-f8c554209182" />
 
 ---
 
